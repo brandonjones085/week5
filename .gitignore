@@ -1,0 +1,7 @@
+*.o
+*.vscode
+pch.h
+pch.cpp
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
